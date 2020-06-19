@@ -1,4 +1,4 @@
-# Angular Material Data Table-Paging,Sorting,Filtering.
+# Angular-Material Filtering Table-Paging & Sorting on Data
 
 ###### Before Running this Project
  1. Install npm packages using 'npm install' command.
